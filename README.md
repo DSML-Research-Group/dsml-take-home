@@ -7,7 +7,7 @@ The libraries we will be using are:
  - [Sklearn](https://scikit-learn.org/stable/)
  - [Matplotlib](https://www.w3schools.com/python/matplotlib_pyplot.asp)
 
-The data is collected from the Behavioral Risk Factor Surveillance System (BRFSS) dataset and provided by [Kaggle](https://www.kaggle.com/competitions/diabetes-prediction-competitiontfug-chd-nov-2022/data). You can view the raw data [here](https://raw.githubusercontent.com/CodesmithLLC/dsml-datasets/main/train_dataset.csv).
+The data is collected from the Behavioral Risk Factor Surveillance System (BRFSS) dataset and provided by [Kaggle](https://www.kaggle.com/competitions/diabetes-prediction-competitiontfug-chd-nov-2022/data). You can view the raw data [here](./data).
 
 Submit your answers to the prompts [here](https://forms.gle/66VdMARikw7BAYs97)
 
