@@ -12,7 +12,7 @@ The data is collected from the Behavioral Risk Factor Surveillance System (BRFSS
 Submit your answers to the prompts [here](https://forms.gle/66VdMARikw7BAYs97)
 
 ## Getting Started
-- Fork this repo and clone it to your local machine.
+- [Git fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repo and clone it to your local machine.
 - Complete the challenges in the [notebook](./challenge.ipynb). Answer each question in a separate cell.
 - Submit your answers questions in the take home form.
 
