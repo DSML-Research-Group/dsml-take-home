@@ -1,4 +1,4 @@
-# # Codesmith Take Home Challenge
+# Codesmith Take Home Challenge
 
 For this take home challenge you will be using foundational data science python libraries to analyze a dataset related to diabetes patients and develop a basic logistic regression model.
 
