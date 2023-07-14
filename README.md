@@ -15,7 +15,3 @@ Submit your answers to the prompts [here](https://forms.gle/66VdMARikw7BAYs97)
 - [Git fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repo and clone it to your local machine.
 - Complete the challenges in the [notebook](./challenge.ipynb). Answer each question in a separate cell.
 - Submit your answers questions in the take home form.
-
-## Do's and Don'ts
-
-Only use Pandas to gather information about this dataset. Do not load the data file with an external program like Excel or Google Sheet.
